@@ -1,5 +1,5 @@
 # Porto Marghera Cohort Study
-
+This project investigates mortality among workers employed at the Porto Marghera petrochemical plant. Using retrospective cohort data, the analysis examines the association between time since first occupational exposure and mortality while accounting for age and calendar period.
 ### Project Contents
 
 - `Cohort_Analysis.do`: Stata script for data preparation, survival analysis, rate estimation, Mantel-Haenszel comparisons, and standardized-rate calculations.
